@@ -1,0 +1,16 @@
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\bin\Debug\net5.0\1002.exe
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\bin\Debug\net5.0\1002.deps.json
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\bin\Debug\net5.0\1002.runtimeconfig.json
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\bin\Debug\net5.0\1002.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\bin\Debug\net5.0\1002.dll
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\bin\Debug\net5.0\ref\1002.dll
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\bin\Debug\net5.0\1002.pdb
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.csprojAssemblyReference.cache
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.AssemblyInfo.cs
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.dll
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\ref\1002.dll
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.pdb
+C:\Users\Pablo\Documents\GitHub\Exercicios_URI\Iniciante\1002\obj\Debug\net5.0\1002.genruntimeconfig.cache
